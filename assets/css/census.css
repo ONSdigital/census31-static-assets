@@ -1,0 +1,15 @@
+:root {
+    --ons-color-branded: #902082;
+}
+
+/* Overrides */
+
+/* Masthead logo */
+.ons-header__org-logo-link:focus img {
+    filter: brightness(0);
+}
+
+/* Header logo */
+.ons-header__title-logo-link:focus img {
+    filter: brightness(0);
+}
